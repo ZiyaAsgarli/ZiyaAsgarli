@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Several exciting backend development and personal projects 🚀.<br><br>👯 I’m looking to collaborate on: Innovative tech projects, especially in backend development and creative problem-solving 💡.<br><br>🤝 I’m looking for help with: Expanding my network and learning advanced backend development techniques 🤖.<br><br>🌱 I’m currently learning: Java Backend development at Ingress Academy 💻.<br><br>💬 Ask me about: Photography, coding, tech trends, and creative projects 📸💻.<br><br>⚡ Fun fact: I’m both a professional photographer and a passionate coder—two very different, yet equally creative worlds 🎨🤓!
+🔭 I’m currently working on: Several exciting backend development and personal projects 🚀.<br><br>👯 I’m looking to collaborate on: Innovative tech projects, especially in backend development and creative problem-solving 💡.<br><br>🤝 I’m looking for help with: Expanding my network and learning advanced backend development techniques 🤖.<br><br>🌱 I’m currently learning: Java Backend development at Ingress Academy 💻.<br><br>💬 Ask me about: Photography, coding, tech trends, and creative projects 📸💻.<br><br>
 
 
 ## 🌐 Socials:
