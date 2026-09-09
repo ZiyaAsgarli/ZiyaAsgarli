@@ -50,16 +50,6 @@ A responsive two-player Domino 101 experience with Socket.IO room lifecycle, tur
 
 [Web App](https://domino-101-app.vercel.app/)
 
-### 05 / Discipline Dashboard
-
-**Full-stack personal operating system for goals and execution**
-
-A bilingual PWA that combines daily check-ins, XP progression, strategic tasks, analytics, and CSV export with Supabase-backed authentication, persistence, and Row-Level Security.
-
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Recharts` · `PWA`
-
-[Repository](https://github.com/ZiyaAsgarli/discipline-dashboard)
-
 ### 06 / SQL Data Warehouse
 
 **SQL Server warehouse foundation**
